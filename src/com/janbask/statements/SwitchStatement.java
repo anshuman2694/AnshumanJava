@@ -35,4 +35,4 @@ public class SwitchStatement
     }
 }
 //Switch is not applicable over: long, float, double, boolean data types
-//
+//this is because the switch statement requires a constant expression that can be evaluated at compile-time
